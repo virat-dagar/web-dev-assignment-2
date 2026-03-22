@@ -1,4 +1,4 @@
-const API_KEY = "f95cc08ee0ed6444b06ac24715e040df";
+const API_KEY = "0b8237594f53cf34dc63e58cbeeaa613";
         
         const weatherBox = document.getElementById("weather");
         const historyBox = document.getElementById("history");
